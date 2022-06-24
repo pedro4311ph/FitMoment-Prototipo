@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+.slide {
+  flex-direction: column;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #293237;
+}
+h1 {
+  font-size: small;
+  color: #293237;
+  font-family: 'Montserrat', sans-serif;
+}
+.icons {
+  height: 10em;
+  width: 10em;
+  margin-top: 7em;
+}
